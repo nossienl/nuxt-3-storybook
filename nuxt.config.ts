@@ -1,9 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    modules: ['nuxt-icons'],
     vite: {
-        histoire: {
-            // your Histoire configuration
-        },
         css: {
             preprocessorOptions: {
                 scss: {

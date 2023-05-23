@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "@storybook/manager-api": "^7.0.12",
-    "@storybook/theming": "^7.0.12"
+    "@storybook/theming": "^7.0.12",
+    "nuxt-icons": "^3.2.1"
   }
 }

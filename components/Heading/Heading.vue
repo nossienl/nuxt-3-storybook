@@ -10,7 +10,10 @@
 <script setup>
 defineProps({
     text: String,
-    level:Number,
+    level: {
+        type: Number,
+        default: 1
+    },
     classNames: String
 });
 </script>
